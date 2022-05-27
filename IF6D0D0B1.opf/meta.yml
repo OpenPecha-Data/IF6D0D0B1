@@ -1,0 +1,91 @@
+id: IF6D0D0B1
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+source_file: null
+initial_creation_type: input
+imported: '2022-05-27T15:23:38.852367'
+last_modified: '2022-05-27T15:23:38.852382'
+parser: null
+source_metadata:
+  title: Nirvikalpapraveśadhāraṇī
+  language: sa
+  base:
+    fA6A2:
+      title: §1
+      base_file: fA6A2.txt
+      order: 1
+    fEA9B:
+      title: §2
+      base_file: fEA9B.txt
+      order: 2
+    fB95F:
+      title: §3
+      base_file: fB95F.txt
+      order: 3
+    fE41B:
+      title: §4
+      base_file: fE41B.txt
+      order: 4
+    f8BE1:
+      title: §5
+      base_file: f8BE1.txt
+      order: 5
+    fE3E3:
+      title: §6
+      base_file: fE3E3.txt
+      order: 6
+    f591F:
+      title: §7
+      base_file: f591F.txt
+      order: 7
+    fDB83:
+      title: §8
+      base_file: fDB83.txt
+      order: 8
+    fA606:
+      title: §9
+      base_file: fA606.txt
+      order: 9
+    f240C:
+      title: §10
+      base_file: f240C.txt
+      order: 10
+    f9BD6:
+      title: §11
+      base_file: f9BD6.txt
+      order: 11
+    fDD2A:
+      title: §12
+      base_file: fDD2A.txt
+      order: 12
+    fBC2A:
+      title: §13
+      base_file: fBC2A.txt
+      order: 13
+    fE748:
+      title: §14
+      base_file: fE748.txt
+      order: 14
+    fF2BA:
+      title: §15
+      base_file: fF2BA.txt
+      order: 15
+    f8CAC:
+      title: §16
+      base_file: f8CAC.txt
+      order: 16
+    f40AA:
+      title: §17
+      base_file: f40AA.txt
+      order: 17
+    f75DC:
+      title: §18
+      base_file: f75DC.txt
+      order: 18
+  chapter_to_tile: {}
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
